@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35d54db8-aa0d-497a-b402-1ba7c87efdac" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/manong_redis/target/" />
+    <ignored path="$PROJECT_DIR$/manong_manager/manong_manager_mapper/target/" />
+    <ignored path="$PROJECT_DIR$/manong_sso/target/" />
+    <ignored path="$PROJECT_DIR$/manong_search/target/" />
+    <ignored path="$PROJECT_DIR$/manong_manager/manong_manager_service/target/" />
+    <ignored path="$PROJECT_DIR$/manong_common/target/" />
+    <ignored path="$PROJECT_DIR$/manong_manager/target/" />
+    <ignored path="$PROJECT_DIR$/manong_parent/target/" />
+    <ignored path="$PROJECT_DIR$/manong_manager/manong_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/manong_manager/manong_manager_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/manong_rest/target/" />
+    <ignored path="$PROJECT_DIR$/manong_parent/manong_portal/target/" />
+    <ignored path="$PROJECT_DIR$/manong_potal/target/" />
+    <ignored path="$PROJECT_DIR$/manong_portal/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="manong" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>among</find>
+      <find>list</find>
+      <find>insert</find>
+      <find>800</find>
+      <find>filebox_file_id_1</find>
+      <find>getContent</find>
+      <find>UE.geteditor(&quot;&quot;)</find>
+      <find>btn</find>
+      <find>productAddForm</find>
+      <find>description</find>
+      <find>cid1</find>
+      <find>decri</find>
+      <find>pricePreview</find>
+      <find>ma</find>
+      <find>manager</find>
+      <find>portal</find>
+      <find>subCetegoriesBeanList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>portal</replace>
+      <replace>rest</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\manong\manong_portal\src\main\java\com\manong\controller</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../codeStock" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductCategory.java" />
+        <option value="$PROJECT_DIR$/manong_common/src/main/java/pojo/EasyUITree.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/conf/fdfs_client.conf" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/fastdfs/FastDFSClinet.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/controller/FreemarkTest.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/ftl/hello.ftl" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/hi.jsp" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/controller/ProductCategoryController.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/ueditor_test.jsp" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/ueditor/ueditor.config.js" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/js/ajaxFileUpload.js" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/js/product_add.js" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/Product.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/product_add.jsp" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductServiceimpl.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/product_list.jsp" />
+        <option value="$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/mybatis/sqlMapConfing.xml" />
+        <option value="$PROJECT_DIR$/manong_potal/pom.xml" />
+        <option value="$PROJECT_DIR$/manong_potal/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/manong_potal/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/hello.ftl" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/manong_portal/src/main/java/com/manong/protal/controller/IndexControler.java" />
+        <option value="$PROJECT_DIR$/manong_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/manong_portal/pom.xml" />
+        <option value="$PROJECT_DIR$/manong_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/manong_common/src/main/java/pojo/EasyGrid.java" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/manong_common/src/main/java/pojo/Res_Categonies.java" />
+        <option value="$PROJECT_DIR$/manong_common/src/main/java/pojo/Res_Categories.java" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/service/ProductCategriesService.java" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/service/impl/ProductCategriesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/controller/ProductCategoriesController.java" />
+        <option value="$PROJECT_DIR$/manong_common/src/main/java/pojo/hello.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven" />
+        <option name="mavenHome" value="D:/Java/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="926" />
+    <option name="y" value="6" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+              <item name="manong_rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+              <item name="manong_rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+              <item name="manong_rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+              <item name="manong_rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manong" type="462c0819:PsiDirectoryNode" />
+              <item name="manong_rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3524436" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\manong\manong_rest\src\main\resources" />
+      <recent name="G:\manong\manong_portal\src\main\resources" />
+      <recent name="G:\manong\manong_rest\src" />
+      <recent name="G:\manong\manong_portal\src\main\webapp\WEB-INF\js" />
+      <recent name="G:\manong\manong_portal\src\main\webapp\WEB-INF\css" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.manong.protal.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\manong\manong_portal\src\main\webapp" />
+      <recent name="G:\manong\manong_portal\src\main\webapp\WEB-INF" />
+      <recent name="G:\manong\manong_portal\src\main\webapp\WEB-INF\jsp" />
+      <recent name="G:\manong\manong_manager\manong_manager_web" />
+      <recent name="G:\manong\manong_manager\manong_manager_web\src\main\webapp\ueditor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.rest">
+    <configuration name="manager" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/manong_manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="protal" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/manong_portal" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="rest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/manong_rest" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.manager" />
+      <item itemvalue="Maven.protal" />
+      <item itemvalue="Maven.rest" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d54db8-aa0d-497a-b402-1ba7c87efdac" name="Default Changelist" comment="" />
+      <created>1556201070803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556201070803</updated>
+      <workItem from="1556201073344" duration="36000" />
+      <workItem from="1556201124187" duration="3000" />
+      <workItem from="1556201153912" duration="98000" />
+      <workItem from="1556201305881" duration="115000" />
+      <workItem from="1556201443427" duration="217000" />
+      <workItem from="1556201668784" duration="87000" />
+      <workItem from="1556201771692" duration="308000" />
+      <workItem from="1556202294418" duration="4004000" />
+      <workItem from="1556206368189" duration="82000" />
+      <workItem from="1556206467492" duration="588000" />
+      <workItem from="1556280812047" duration="2349000" />
+      <workItem from="1556331795506" duration="7963000" />
+      <workItem from="1556348475147" duration="11127000" />
+      <workItem from="1556360021072" duration="593000" />
+      <workItem from="1556360664685" duration="10762000" />
+      <workItem from="1556455399795" duration="5343000" />
+      <workItem from="1556541533619" duration="1279000" />
+      <workItem from="1556680019843" duration="2813000" />
+      <workItem from="1556712474980" duration="407000" />
+      <workItem from="1557055774615" duration="62000" />
+      <workItem from="1557055863080" duration="32000" />
+      <workItem from="1557055988659" duration="83000" />
+      <workItem from="1557056143236" duration="1146000" />
+      <workItem from="1557057315576" duration="186000" />
+      <workItem from="1557057526592" duration="1399000" />
+      <workItem from="1557141997931" duration="597000" />
+      <workItem from="1557234597947" duration="6231000" />
+      <workItem from="1557325590409" duration="3983000" />
+      <workItem from="1557413144168" duration="4565000" />
+      <workItem from="1557654354178" duration="6791000" />
+      <workItem from="1557747543671" duration="9197000" />
+      <workItem from="1557835768615" duration="2863000" />
+      <workItem from="1558007986290" duration="676000" />
+      <workItem from="1558163843401" duration="601000" />
+      <workItem from="1558164613018" duration="845000" />
+      <workItem from="1558165493808" duration="3139000" />
+      <workItem from="1558246188116" duration="609000" />
+      <workItem from="1558246820076" duration="423000" />
+      <workItem from="1558247268555" duration="347000" />
+      <workItem from="1558247637675" duration="77000" />
+      <workItem from="1558247737778" duration="592000" />
+      <workItem from="1558248351793" duration="585000" />
+      <workItem from="1558248960111" duration="2026000" />
+      <workItem from="1558251014586" duration="7960000" />
+      <workItem from="1558268259642" duration="2384000" />
+      <workItem from="1558353477499" duration="4168000" />
+      <workItem from="1558357674162" duration="7220000" />
+      <workItem from="1558365858926" duration="258000" />
+      <workItem from="1559049556824" duration="1127000" />
+      <workItem from="1559129622097" duration="3955000" />
+      <workItem from="1559141664293" duration="591000" />
+      <workItem from="1559224592204" duration="4029000" />
+      <workItem from="1559310651268" duration="2361000" />
+      <workItem from="1559313041481" duration="399000" />
+      <workItem from="1559313622777" duration="2945000" />
+      <workItem from="1559316596590" duration="924000" />
+      <workItem from="1559353965768" duration="976000" />
+      <workItem from="1559392347760" duration="5911000" />
+      <workItem from="1559459853815" duration="8487000" />
+      <workItem from="1559486746505" duration="2105000" />
+      <workItem from="1559561297305" duration="5541000" />
+      <workItem from="1559712339466" duration="498000" />
+      <workItem from="1559725910842" duration="119000" />
+      <workItem from="1559726108490" duration="269000" />
+      <workItem from="1559726466683" duration="183000" />
+      <workItem from="1559726680579" duration="68000" />
+      <workItem from="1559726780995" duration="61000" />
+      <workItem from="1559729441536" duration="516000" />
+      <workItem from="1559750009147" duration="1646000" />
+      <workItem from="1559787625292" duration="67000" />
+      <workItem from="1559787787170" duration="12000" />
+      <workItem from="1559787882516" duration="2220000" />
+      <workItem from="1559831569268" duration="339000" />
+      <workItem from="1559831938516" duration="3297000" />
+      <workItem from="1559835263493" duration="318000" />
+      <workItem from="1559835605893" duration="258000" />
+      <workItem from="1559836175786" duration="1034000" />
+      <workItem from="1559837254587" duration="1642000" />
+    </task>
+    <task id="LOCAL-00001" summary="码农">
+      <created>1558267706192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558267706192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169117000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49712974" visible="true" weight="0.25375536" />
+      <window_info id="Structure" order="1" sideWeight="0.50287026" side_tool="true" weight="0.23390558" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50287026" side_tool="true" weight="0.23390558" />
+      <window_info id="Web" order="7" sideWeight="0.50287026" side_tool="true" weight="0.23390558" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3295063" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3295063" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.5729047" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295063" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295063" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.49712974" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3295063" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3295063" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Run" order="1" sideWeight="0.50172216" weight="0.7392704" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.2950644" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49827784" visible="true" weight="0.31759655" />
+      <window_info id="Structure" order="1" sideWeight="0.50057405" side_tool="true" weight="0.29345495" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3295063" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3295063" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36969" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295063" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.49712974" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Run" order="1" sideWeight="0.50172216" weight="0.67060083" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.2950644" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../codeStock" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="码农" />
+    <option name="LAST_COMMIT_MESSAGE" value="码农" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/ProductController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductCategoryServiceImpl.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/resources/mybatis/sqlMapConfing.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_portal/manong_portal.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_portal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1536">
+          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/EasyGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/EasyUITree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/ResponseJsonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductCategoryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/ProductServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/ProductCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_service/src/main/java/com/manong/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/fastdfs/FastDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/FreemarkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/ProductCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/java/com/manong/protal/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/mybatis/sqlMapConfing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/resources/conf/fdfs_client.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/java/com/manong/controller.java" />
+    <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/Res_Categories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1727#1728#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/service/ProductCategriesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/service/impl/ProductCategriesServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_rest/src/main/java/com/manong/rest/controller/ProductCategoriesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manong_common/src/main/java/pojo/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>manong_manager_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3524436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3524436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3524436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>manong_portal</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3524436" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3524436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="G:\manong\manong_common" />
+  </component>
+</project>

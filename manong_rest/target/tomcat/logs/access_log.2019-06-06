@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Jun/2019:23:25:13 +0800] "POST /productCateories/list HTTP/1.1" 404 993 http-bio-8088-exec-1 104
+0:0:0:0:0:0:0:1 - - [06/Jun/2019:23:25:46 +0800] "POST /rest/productCateories/list HTTP/1.1" 200 332 http-bio-8088-exec-2 165
